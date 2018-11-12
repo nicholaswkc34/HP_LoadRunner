@@ -1,0 +1,13 @@
+[t6]
+FileName1=t6.htm
+URL1=http://intranet.ncsglobaltech.com:81/ePQS/Main/ServiceProxy
+Total=2
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=t6_RequestBody.txt
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_6.xml
+FileName2=t6_css.css
+URL2=http://10.28.14.56/vshoc/css/css.ashx?t=login&l=1033
+[ProtocolInfo]
+ProtocolId=QTWeb

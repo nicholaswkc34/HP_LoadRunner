@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Content-Type-Options: nosniff
+X-Country: my
+X-Frame-Options: SAMEORIGIN
+X-Seed-Signature: MEQCIHdCTw6iH+7VBMkIBbs7O5pyIGk9inRsR11uxL5PkfpyAiBv64z/TJeamz9aMQYO0gEn+F18e8WgWo0JIOlI/pTK/Q==
+X-Xss-Protection: 1; mode=block
+Date: Wed, 15 Aug 2018 02:36:58 GMT
+Content-Type: application/octet-stream
+X-Cache: MISS from who-sg008-my-sel-1
+Transfer-Encoding: chunked
+Via: 1.1 who-sg008-my-sel-1 (squid)
+Connection: keep-alive
+

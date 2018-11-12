@@ -1,0 +1,13 @@
+[t29]
+FileName1=t29.htm
+URL1=http://35.196.208.144:8181/bodgeit/product.jsp?typeid=6
+Total=2
+RequestHeaderFile=t29_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t29_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_29.xml
+FileName2=t29_css.css
+URL2=http://10.28.14.56/vshoc/css/css.ashx?t=login&l=1033
+[ProtocolInfo]
+ProtocolId=QTWeb

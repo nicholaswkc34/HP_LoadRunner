@@ -1,0 +1,19 @@
+[t5]
+FileName2=t5_3_css.css
+FileName5=t1_0_util.UNK
+FileName4=t1_1_style.css
+RequestBodyFile=t5_RequestBody.txt
+ContentType=text/html
+URL1=http://intranet.ncsglobaltech.com:81/ePQS/Main/ServiceProxy
+URL2=http://10.28.14.56/vshoc/css/css.ashx?t=login&l=1033
+URL3=http://35.196.208.144:8181/favicon.ico
+ResponseHeaderFile=t5_ResponseHeader.txt
+URL4=http://35.196.208.144:8181/bodgeit/style.css
+URL5=http://35.196.208.144:8181/bodgeit/js/util.js
+SnapshotXmlFile=snapshot_6.xml
+RequestHeaderFile=t5_RequestHeader.txt
+SaveSnapshotResources=1
+Total=5
+StepName=Custom Request: ServiceProxy_3
+FileName1=t5.html
+FileName3=t1_2_favicon.ico

@@ -1,0 +1,14 @@
+POST http://intranet.ncsglobaltech.com:81/ePQS/Main/ServiceProxy HTTP/1.1
+Host: intranet.ncsglobaltech.com:81
+Proxy-Connection: keep-alive
+Content-Length: 134
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: http://intranet.ncsglobaltech.com:81
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+DNT: 1
+Content-Type: application/json; charset=UTF-8
+Referer: http://intranet.ncsglobaltech.com:81/ePQS/Invoice/InvoiceRequestList
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+

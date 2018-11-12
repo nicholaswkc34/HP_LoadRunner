@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: b_id=92
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 2698
+Date: Wed, 15 Aug 2018 02:24:28 GMT
+X-Cache: MISS from who-sg008-my-sel-1
+Via: 1.1 who-sg008-my-sel-1 (squid)
+Connection: keep-alive
+

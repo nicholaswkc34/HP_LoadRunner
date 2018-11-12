@@ -1,0 +1,21 @@
+[t28]
+FileName2=t25_4_css.css
+FileName5=t1_1_style.css
+FileName4=t6_2_130.png
+FileName6=t1_0_util.UNK
+RequestBodyFile=t28_RequestBody.txt
+ContentType=text/html
+URL1=http://35.196.208.144:8181/bodgeit/product.jsp?typeid=6
+URL2=http://10.28.14.56/vshoc/css/css.ashx?t=login&l=1033
+URL3=http://35.196.208.144:8181/bodgeit/images/129.png
+ResponseHeaderFile=t28_ResponseHeader.txt
+URL4=http://35.196.208.144:8181/bodgeit/images/130.png
+URL5=http://35.196.208.144:8181/bodgeit/style.css
+URL6=http://35.196.208.144:8181/bodgeit/js/util.js
+SnapshotXmlFile=snapshot_29.xml
+RequestHeaderFile=t28_RequestHeader.txt
+SaveSnapshotResources=1
+Total=6
+StepName=Link: Doodahs_3
+FileName1=t28.html
+FileName3=t6_3_129.png

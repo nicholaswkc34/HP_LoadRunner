@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+ETag: W/"21630-1530551298000"
+Last-Modified: Mon, 02 Jul 2018 17:08:18 GMT
+Content-Type: image/x-icon
+Content-Length: 21630
+Date: Wed, 15 Aug 2018 02:02:31 GMT
+X-Cache: MISS from who-sg008-my-sel-1
+Via: 1.1 who-sg008-my-sel-1 (squid)
+Connection: keep-alive
+

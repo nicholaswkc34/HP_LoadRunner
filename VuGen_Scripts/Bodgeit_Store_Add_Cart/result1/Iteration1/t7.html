@@ -1,0 +1,188 @@
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+function incQuantity (prodid) {
+	var q = document.getElementById('quantity_' + prodid);
+	if (q != null) {
+		var val = ++q.value;
+		if (val > 12) {
+			val = 12;
+		}
+		q.value = val;
+	}
+}
+function decQuantity (prodid) {
+	var q = document.getElementById('quantity_' + prodid);
+	if (q != null) {
+		var val = --q.value;
+		if (val < 0) {
+			val = 0;
+		}
+		q.value = val;
+	}
+}
+</script>
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>The BodgeIt Store</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="./js/util.js"></script>
+</head>
+<body>
+
+<center>
+<table width="80%" class="border">
+<tr BGCOLOR=#C3D9FF>
+<td align="center" colspan="6">
+<H1>The BodgeIt Store</H1>
+<table width="100%" class=\"noborder\">
+<tr BGCOLOR=#C3D9FF>
+<td align="center" width="30%">&nbsp;</td>
+<td align="center" width="40%">We bodge it, so you dont have to!</td>
+<td align="center" width="30%" style="text-align: right" >
+User: <a href="password.jsp">peterapiit@gmail.com</a>
+
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" width="16%" BGCOLOR=#EEEEEE><a href="home.jsp">Home</a></td>
+<td align="center" width="16%" BGCOLOR=#EEEEEE><a href="about.jsp">About Us</a></td>
+
+<td align="center" width="16%" BGCOLOR=#EEEEEE><a href="contact.jsp">Contact Us</a></td>
+<!-- td align="center" width="16%"><a href="admin.jsp">Admin</a></td-->
+
+<td align="center" width="16%" BGCOLOR=#EEEEEE>
+
+		<a href="logout.jsp">Logout</a>
+
+</td>
+
+<td align="center" width="16%" BGCOLOR=#EEEEEE><a href="basket.jsp">Your Basket</a></td>
+
+<td align="center" width="16%" BGCOLOR=#EEEEEE><a href="search.jsp">Search</a></td>
+</tr>
+<tr>
+<td align="center" colspan="6">
+<table width="100%" class="border">
+<tr>
+<td align="left" valign="top" width="25%">
+<a href="product.jsp?typeid=6">Doodahs</a><br/>
+<a href="product.jsp?typeid=5">Gizmos</a><br/>
+<a href="product.jsp?typeid=3">Thingamajigs</a><br/>
+<a href="product.jsp?typeid=2">Thingies</a><br/>
+<a href="product.jsp?typeid=7">Whatchamacallits</a><br/>
+<a href="product.jsp?typeid=4">Whatsits</a><br/>
+<a href="product.jsp?typeid=1">Widgets</a><br/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+</td>
+<td valign="top" width="70%">
+
+
+<h3>Your Basket</h3>
+Your basket had been updated.<br/>
+<form action="basket.jsp" method="post">
+<table border="1" class="border" width="80%">
+<tr><th>Product</th><th>Quantity</th><th>Price</th><th>Total</th></tr>
+<tr>
+<td><a href="product.jsp?prodid=26">Zip a dee doo dah</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(26);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_26" name="quantity_26" value="1123" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(26);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$3.99</td>
+</td><td align="right">$4,480.77</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=18">Whatsit weigh</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(18);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_18" name="quantity_18" value="12" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(18);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$2.50</td>
+</td><td align="right">$30.00</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=9">TGJ AAA</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(9);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_9" name="quantity_9" value="412" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(9);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$0.90</td>
+</td><td align="right">$370.80</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=29">Tipofmytongue</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(29);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_29" name="quantity_29" value="2" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(29);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$3.74</td>
+</td><td align="right">$7.48</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=20">Whatsit taste like</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(20);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_20" name="quantity_20" value="5" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(20);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$3.96</td>
+</td><td align="right">$19.80</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=4">Thingie 1</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(4);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_4" name="quantity_4" value="112" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(4);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$3.00</td>
+</td><td align="right">$336.00</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=2">Complex Widget</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(2);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_2" name="quantity_2" value="4" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(2);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$3.10</td>
+</td><td align="right">$12.40</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=28">Bonzo dog doo dah</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(28);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_28" name="quantity_28" value="3" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(28);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$2.45</td>
+</td><td align="right">$7.35</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=27">Doo dah day</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(27);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_27" name="quantity_27" value="4" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(27);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$6.50</td>
+</td><td align="right">$26.00</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=14">TGJ GGG</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(14);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_14" name="quantity_14" value="12" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(14);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$2.60</td>
+</td><td align="right">$31.20</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=10">TGJ ABB</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(10);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_10" name="quantity_10" value="2" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(10);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$1.40</td>
+</td><td align="right">$2.80</td>
+</tr>
+<tr>
+<td><a href="product.jsp?prodid=19">Whatsit feel like</a></td>
+<td style="text-align: center">&nbsp;<a href="#" onclick="decQuantity(19);"><img src="images/130.png" alt="Decrease quantity in basket" border="0"></a>&nbsp;<input id="quantity_19" name="quantity_19" value="4" maxlength="2" size = "2" style="text-align: right" READONLY />&nbsp;<a href="#" onclick="incQuantity(19);"><img src="images/129.png" alt="Increase quantity in basket" border="0"></a>&nbsp;</td>
+<td align="right">$3.95</td>
+</td><td align="right">$15.80</td>
+</tr>
+<tr><td>Total</td><td style="text-align: center"><input id="update" name="update" type="submit" value="Update Basket"/></td><td>&nbsp;</td><td align="right">$5,340.40</td></tr>
+</table>
+
+</form>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</center>
+</body>
+</html>
+
+

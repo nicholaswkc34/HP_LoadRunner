@@ -1,0 +1,481 @@
+
+<!-- Master page for SUIT 6 styling -->
+<!DOCTYPE html>
+
+<html id="ctl00_ctl00_HtmlTag" xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1"><title>
+	WebEOC 8.4 Login
+</title>
+        <link href="suit6/core/assets/css/main.css" media="all" rel="stylesheet" />
+    <link id="ctl00_ctl00_suit6MigrationCSSLink" media="screen" rel="stylesheet" href="css/SUIT6Migration.css" />    
+    <!-- favicons -->
+    <link href="suit6/core/assets/img/favicons/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57" /><link href="suit6/core/assets/img/favicons/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60" /><link href="suit6/core/assets/img/favicons/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72" /><link href="suit6/core/assets/img/favicons/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76" /><link href="suit6/core/assets/img/favicons/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114" /><link href="suit6/core/assets/img/favicons/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120" /><link href="suit6/core/assets/img/favicons/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144" /><link href="suit6/core/assets/img/favicons/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" /><link href="suit6/core/assets/img/favicons/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180" /><link href="suit6/core/assets/img/favicons/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png" /><link href="suit6/core/assets/img/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png" /><link href="suit6/core/assets/img/favicons/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png" /><link href="suit6/core/assets/img/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png" /><link href="suit6/core/assets/img/favicons/manifest.json" rel="manifest" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta content="#ffffff" name="msapplication-TileColor" /><meta content="suit6/core/assets/img/favicons/ms-icon-144x144.png" name="msapplication-TileImage" /><meta content="#ffffff" name="theme-color" />
+
+    <!-- Force ASP.NET sortable headers (anchors) to style correctly when applying SUIT style class -->
+    <style type="text/css">
+        table.dataTable th > a {
+            color: #333;
+        }
+        .ScreenReaderOnly {
+            position: absolute;
+            left: -10000px;
+            top: auto;
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+        }
+        .DeleteColumn {
+            width: 4em;
+        }
+        /*the following are used primarily to style/place the footer*/
+        @media screen {
+            html, body {
+                height: 100%;
+            }
+
+            #container {
+                min-height: 100%;
+            }
+
+            #content {
+                padding-bottom: 69px;
+            }
+        }
+        .masterfooter {
+            position: relative;
+            height:49px;
+            margin-top: -49px;
+            clear: both;
+        }
+
+		@media (max-width: 1024px){
+			.copy-right {
+				font-size: 0.6em;
+			}
+		}
+
+        .pull-footer-right {
+            text-align:right;
+        }
+    </style>
+
+    
+        <script type="text/javascript">
+            var require = {
+                baseUrl: './',
+                packages: [{
+                    name: 'suit/core',
+                    location: 'suit6/core/assets/js'
+                }],
+                paths: {
+                    'jquery': 'suit6/core/assets/js/lib/jquery',
+                    'knockout': 'suit6/knockout/assets/js/lib/knockout',
+                },
+                deps: ['suit/core', 'jquery'],
+                callback: function (suit, $) {
+                    $(document).ready(function () {
+                    });
+                }
+            };
+        </script>
+    <script  type="text/javascript" src="suit6/core/assets/js/lib/require.js"></script>
+    <style>
+        /*overrides master.master page styling needed for footer*/
+        html, body { height:auto; }
+        #container { min-height: 0%; }
+        #content { overflow: visible; padding-bottom:0px; }
+    </style>
+    
+    <meta name="robots" content="noindex" />
+    <script src="js/session_cookies.js" type="text/javascript"></script>
+<link href="/vshoc/css/css.ashx?t=login&amp;l=1033" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+    <div id="container">
+        <div id="content">
+            <form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm" class="form-horizontal">
+<div>
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/vshoc/WebResource.axd?d=m2puotCtAWP9oFIq5oYDoN_vicv5ZQdAUQdQo7ZHGrFVcoadrgb7N9XVuMjSAOViGbh9yAPdCJDSbYuat84y5op9iME1&amp;t=636284705271971599" type="text/javascript"></script>
+
+
+<script src="/vshoc/WebResource.axd?d=s47gG5lfJuJcHy57EKsHTj1UbIvIaDdlDvkgD7SBZQUl1tmAQ_UY6ZWXcK0b845sjvwrN3Cy0iJM0apPUvimAstMkzU1&amp;t=636284705271971599" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EF84670B" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwLf3brlAQLNwO+GCALLsafvBAKjy/XLBQKz5d2BDQKLwPUBApKujO4LUsNKGkXKph1igjwthDmjA3vielI=" />
+</div>
+                <input type='hidden' id='CSRFToken' name='CSRFToken' value='61a787f9-7d25-49a8-b039-d2bdfb4c00c6' />
+
+                
+
+    <div class="logincontainer">
+        <div class="loginbox">
+
+            <div class="form-group">
+                <div class="grid-row">
+                    <h1>
+                        WebEOC 8.4 Login</h1>
+                </div>
+            </div>
+
+            
+
+    <!-- Organization -->
+    
+
+    <!-- Login policy -->
+    
+
+    <!-- Login -->
+    <div id="ctl00_ctl00_formBody_body_divLogin" class="loginform">
+
+        <div class="form-group">
+            <div class="grid-row">
+                <label id="ctl00_ctl00_formBody_body_lblUsername" class="col-1 control-label" for="ctl00_ctl00_formBody_body_txtUsername">Username</label>
+                <input name="ctl00$ctl00$formBody$body$txtUsername" type="text" id="ctl00_ctl00_formBody_body_txtUsername" class="input-large form-control" />
+            </div>
+        </div>
+
+        <div id="ctl00_ctl00_formBody_body_divPassword" class="form-group">
+            <div class="grid-row">
+                <label id="ctl00_ctl00_formBody_body_lbltxtPassword" for="ctl00_ctl00_formBody_body_txtPassword" class="col-1 control-label">Password</label>
+                 <input name="ctl00$ctl00$formBody$body$txtPassword" type="password" id="ctl00_ctl00_formBody_body_txtPassword" class="input-large form-control" autocomplete="off" />
+            </div>
+        </div>
+        <div class="form-group">
+                <label>vSHOC credentials only.</label><br/>
+				<label>Navigate to https://extranet.who.int/vshoc</label><br/>
+				<label>to log in with WIMS, ADS or PAHO credentials.</label>
+        </div>
+        <div class="form-group">
+            <div class="grid-row">
+                <input type="submit" name="ctl00$ctl00$formBody$body$btnLogIn" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$formBody$body$btnLogIn&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_formBody_body_btnLogIn" class="btn btn-primary" />
+            </div>
+        </div>
+        
+        <div id="ctl00_ctl00_formBody_body_divSelfRegistration" class="form-group">
+            <div class="grid-row">
+                <ul class="fineprint listStyleNone">
+                    <li>
+                        <a id="ctl00_ctl00_formBody_body_lnkbtnCreateAccount" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$formBody$body$lnkbtnCreateAccount&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">New User?  Click here to create an account.</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="ctl00_ctl00_formBody_body_divForgotPassword" class="form-group">
+            <div class="grid-row">
+                <ul class="fineprint listStyleNone">
+                    <li>
+                        <a id="ctl00_ctl00_formBody_body_lnkbtnForgotPassword" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$formBody$body$lnkbtnForgotPassword&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Forgot Username/Password?</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- end of login -->
+
+    <!-- position and incident -->
+    
+    <!-- end of position and incident -->
+
+    <!-- error -->
+    
+
+    
+    <!-- end of error -->
+    
+    <!-- additional login info -->
+    
+    <!-- end of additional login info -->
+
+    <!-- portal logout -->
+    
+
+
+    <script type="text/javascript" src="js/common.js?version=8.4.0.13"></script>
+    <script type="text/javascript">
+        var pageLogin = {
+            buttons: ['ctl00_ctl00_formBody_body_btnOKOrg', 'ctl00_ctl00_formBody_body_btnContinueIncident', 'ctl00_ctl00_formBody_body_btnLogIn'],
+            btnCancelIncident: document.getElementById('ctl00_ctl00_formBody_body_btnCancelIncident'),
+            txtUsername: document.getElementById('ctl00_ctl00_formBody_body_txtUsername'),
+            cancelfocus: false,
+            submitted: false, // if focus is on the OK button and the user presses Enter, there is one submission for the automatic button click and one for our compensator
+
+            Load: function () {
+                if (this.btnCancelIncident) {
+                    this.btnCancelIncident.onfocus = function () { pageLogin.cancelfocus = true; };
+                    this.btnCancelIncident.onblur = function () { pageLogin.cancelfocus = false; };
+                }
+                 // added by WHO
+				// alert the user if they are using an old version of IE
+				var version = 999; // we assume a sane browser
+
+				if (navigator.appVersion.indexOf("MSIE") != -1) {
+					version = parseFloat(navigator.appVersion.split("MSIE")[1]);
+				}
+
+				if (version < 9) {
+					alert("You are using an old version of Internet Explorer. VSHOC only supports Internet Explorer 9 or higher. It also supports other browsers such as Firefox or Chrome.");
+				}
+				// replace WebEOC 8.2 Login with Emergency Portal Login
+				document.getElementsByTagName("h1")[0].innerHTML="Emergency Portal Login";
+				// hide the logo and show the WHO logo instead
+				document.getElementsByClassName("poweredby")[0].style.display="none";
+				var crn=document.getElementsByClassName("footer")[0].getElementsByTagName("span")[0];
+				crn.innerHTML="";
+				var elem = document.createElement("img");
+				elem.setAttribute("src", "images/whologo.png");
+				elem.setAttribute("height", "38");
+				elem.setAttribute("width", "200");
+				elem.setAttribute("alt", "WHO");
+				crn.appendChild(elem);
+				// if we're on the login page, enter credentials if they have been provided
+				var un = document.getElementById("ctl00_ctl00_formBody_body_txtUsername");
+				if(un)
+				{			
+					// are there URL parameters?
+					var username = document.URL.indexOf("username=")>-1?(document.URL.substring(document.URL.indexOf("username=")+9,document.URL.substring(document.URL.indexOf("username=")+9).indexOf("&")>-1?(document.URL.indexOf("username=")+9+document.URL.substring(document.URL.indexOf("username=")+9).indexOf("&")):document.URL.length)):"";
+					var pwd = document.URL.indexOf("pwd=")>-1?(document.URL.substring(document.URL.indexOf("pwd=")+4,document.URL.substring(document.URL.indexOf("pwd=")+4).indexOf("&")>-1?(document.URL.indexOf("pwd=")+4+document.URL.substring(document.URL.indexOf("pwd=")+4).indexOf("&")):document.URL.length)):"";
+					var tableid =  document.URL.indexOf("tableid=")>-1?(document.URL.substring(document.URL.indexOf("tableid=")+8,document.URL.substring(document.URL.indexOf("tableid=")+8).indexOf("&")>-1?(document.URL.indexOf("tableid=")+8+document.URL.substring(document.URL.indexOf("tableid=")+8).indexOf("&")):document.URL.length)):"";
+						var viewid = document.URL.indexOf("viewid=")>-1?(document.URL.substring(document.URL.indexOf("viewid=")+7,document.URL.substring(document.URL.indexOf("viewid=")+7).indexOf("&")>-1?(document.URL.indexOf("viewid=")+7+document.URL.substring(document.URL.indexOf("viewid=")+7).indexOf("&")):document.URL.length)):"";
+						var boardname = document.URL.indexOf("boardname=")>-1?(document.URL.substring(document.URL.indexOf("boardname=")+10,document.URL.substring(document.URL.indexOf("boardname=")+10).indexOf("&")>-1?(document.URL.indexOf("boardname=")+10+document.URL.substring(document.URL.indexOf("boardname=")+10).indexOf("&")):document.URL.length)):"";
+						var incidentid = document.URL.indexOf("incidentid=")>-1?(document.URL.substring(document.URL.indexOf("incidentid=")+11,document.URL.substring(document.URL.indexOf("incidentid=")+11).indexOf("&")>-1?(document.URL.indexOf("incidentid=")+11+document.URL.substring(document.URL.indexOf("incidentid=")+11).indexOf("&")):document.URL.length)):"";
+						var positionid = document.URL.indexOf("positionid=")>-1?(document.URL.substring(document.URL.indexOf("positionid=")+11,document.URL.substring(document.URL.indexOf("positionid=")+11).indexOf("&")>-1?(document.URL.indexOf("positionid=")+11+document.URL.substring(document.URL.indexOf("positionid=")+11).indexOf("&")):document.URL.length)):"";
+						var parameters = document.URL.indexOf("parameters=")>-1?(document.URL.substring(document.URL.indexOf("parameters=")+11,document.URL.substring(document.URL.indexOf("parameters=")+11).indexOf("&")>-1?(document.URL.indexOf("parameters=")+11+document.URL.substring(document.URL.indexOf("parameters=")+11).indexOf("&")):document.URL.length)):"";
+						// avoid blanking out the cookies
+						if(tableid!="")
+							writeSessionCookie("tableid",tableid);
+						if(viewid!="")
+							writeSessionCookie("viewid",viewid);
+						if(boardname!="")
+							writeSessionCookie("caption",boardname);
+						if(incidentid!="")
+							writeSessionCookie("incidentid",incidentid);
+						if(positionid!="")
+							writeSessionCookie("positionid",positionid);
+						if(parameters!="")
+							writeSessionCookie("parameters",parameters);
+					if(username!=""&&pwd!="")
+					{
+						var pd = document.getElementById("ctl00_ctl00_formBody_body_txtPassword");
+						un.value=username;
+						pd.value=pwd;
+						
+						setTimeout(function(){WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions('ctl00$ctl00$formBody$body$btnLogIn', '', true, '', '', false, false));},20000);
+					}
+				}
+				// only do the next actions if we're on the select position / incident page
+				var pdd = document.getElementById("ctl00_ctl00_formBody_body_ddlPosition");
+				if(pdd)
+				{				
+					var idd = document.getElementById("ctl00_ctl00_formBody_body_ddlIncident");
+					// now check if there is previously saved information about low bandwidth mode,  previously chosen position or incident, or preselection 
+					var valCookieLowBandwidth = getLTCookie("lowbandwidth");				
+					var valCookiePosition = getLTCookie("loginpositionvshoc");
+					var valCookieIncident = getLTCookie("loginincidentvshoc");
+					var forceIncident = getCookieValue("incidentid");
+					var forcePosition = getCookieValue("positionid");															
+					// if there is only one position and incident and they match the forced or cookie incident and position, submit the form
+					if(pdd.options.length==1&&idd.options.length==1)
+					{
+						if((pdd.options[0].value==forcePosition||pdd.options[0].value==valCookiePosition)&&(idd.options[0].value==forceIncident||idd.options[0].value==valCookieIncident))
+						{
+							pageLogin.clickok();
+							return;
+						}
+					}
+					var initialPddIndex = pdd.selectedIndex; // this will help us know if the position was changed
+					// first react to a forced position / incident
+					if(forcePosition!=""||valCookiePosition!="")
+					{					
+						for(var i=0; i < pdd.options.length; i++){
+							if(pdd.options[i].value==forcePosition&&forcePosition!="")
+							{
+								pdd.selectedIndex=i;
+								break;
+							}
+							else if(pdd.options[i].value==valCookiePosition&&valCookiePosition!=""&&forcePosition=="")
+							{
+								pdd.selectedIndex=i;
+								break;
+							}
+						}
+					}
+					// now, if it's a forced incident, select or add the value and click OK
+					var incidentfound = false;
+					if(forceIncident!="")
+					{
+						for(var i=0; i < idd.options.length; i++){
+						var iival = idd.options[i].value;
+						if(idd.options[i].value.indexOf(".")>-1)
+							iival=idd.options[i].value.substring(idd.options[i].value.indexOf(".")+1);
+							if(iival==forceIncident)
+							{
+								idd.selectedIndex=i;
+								incidentfound=true;
+								// blank out the incidentid and positionid cookies
+								//writeSessionCookie("positionid","");
+								writeSessionCookie("incidentid","");
+								pageLogin.clickok();							
+								break;							
+							}
+							
+						}
+						if(incidentfound)
+								return;
+							else
+							{
+								setTimeout(function(){__doPostBack('ctl00$ctl00$formBody$body$ddlPosition','');}, 0);
+								return;
+							}
+					}
+					// if it's a cookie incident, we select it if available
+					else if(valCookieIncident!="")
+					{
+						for(var i=0; i < idd.options.length; i++){
+							if(idd.options[i].value==valCookieIncident)
+							{
+								idd.selectedIndex=i;
+								incidentfound=true;
+								// blank out the incidentid and positionid cookies
+								//writeSessionCookie("positionid","");
+								writeSessionCookie("incidentid","");
+								break;
+							}
+						}
+					}
+					// if we have a lowbandwidth cookie, check or uncheck lowbandwidth accordingly
+					document.getElementById("checklowbandwidth").checked=(valCookieLowBandwidth=="t");
+					// if we're not in an HQ position, check low bandwidth
+					if((valCookieLowBandwidth==null||valCookieLowBandwidth=="")&&pdd.options[pdd.selectedIndex].text.indexOf("/")>-1&&pdd.options[pdd.selectedIndex].text.indexOf("HQ")==-1&&pdd.options[pdd.selectedIndex].text.indexOf("EURO")==-1&&pdd.options[pdd.selectedIndex].text.indexOf("AMRO")==-1)
+					{
+						document.getElementById("checklowbandwidth").checked=true;
+						writeLTCookie("lowbandwidth", "t");
+					}
+					// add an onchange listener to the dropdown lists that will save a cookie when the user selects a position or incident
+					if(pdd.addEventListener){
+						pdd.addEventListener("change", function(e){
+							pageLogin.onPositionChange();
+					  }, false);
+					}
+					if(idd.addEventListener){
+						idd.addEventListener("change", function(e){
+							pageLogin.onIncidentChange();
+					  }, false);
+					}
+					// if the position was changed and the cookie incident was not found, refresh the incident list
+					if(initialPddIndex!=pdd.selectedIndex&&!incidentfound)
+					{
+						setTimeout(function(){__doPostBack('ctl00$ctl00$formBody$body$ddlPosition','');}, 0);
+					}
+				}
+            },
+            EnterKeySubmission: function (e) {
+                if (!e) var e = window.event;
+                var key = 0;
+                if (Common.Key.GetCode(e) == 13 && !this.cancelfocus) { // if we're focused on a cancel button, we do not want to click OK
+                    for (var i = 0; i < this.buttons.length; i++) {
+                        var btn = document.getElementById(this.buttons[i]);
+                        if (btn != null && this.txtUsername == null)
+                            btn.click();
+                    }
+                }
+            },
+            init: function () {
+                window.onload = function () { pageLogin.Load(); };
+                document.forms[0].onsubmit = function () { if (pageLogin.submitted) return false; pageLogin.submitted = true; }; // make sure this submits only once
+                document.body.onkeypress = function (e) { pageLogin.EnterKeySubmission(e); };
+            },
+			clickok: function () {
+				if (!this.cancelfocus) { // if we're focused on a cancel button, we do not want to click OK
+							for (var i = 0; i < this.buttons.length; i++) {
+								var btn = document.getElementById(this.buttons[i]);
+								if (btn != null && this.txtUsername == null)
+									btn.click();
+							}
+						}
+			},
+			onPositionChange : function () {
+				var pdd = document.getElementById("ctl00_ctl00_formBody_body_ddlPosition");				
+				writeLTCookie("loginpositionvshoc", pdd.options[pdd.selectedIndex].value);
+				var valCookieLowBandwidth = getLTCookie("lowbandwidth");
+				if((valCookieLowBandwidth==null||valCookieLowBandwidth=="")&&pdd.options[pdd.selectedIndex].text.indexOf("/")>-1&&pdd.options[pdd.selectedIndex].text.indexOf("HQ")==-1&&pdd.options[pdd.selectedIndex].text.indexOf("EURO")==-1&&pdd.options[pdd.selectedIndex].text.indexOf("AMRO")==-1)
+				{
+					document.getElementById("checklowbandwidth").checked=true;
+					writeLTCookie("lowbandwidth", "t");
+				}
+			},
+			onIncidentChange : function () {
+				var idd = document.getElementById("ctl00_ctl00_formBody_body_ddlIncident");
+				writeLTCookie("loginincidentvshoc", idd.options[idd.selectedIndex].value);
+			},
+			bandwidthChange : function change(cbox){
+                        if(cbox.checked){
+                            writeLTCookie("lowbandwidth", "t");
+                        } else{
+                            writeLTCookie("lowbandwidth", "f");
+                        }
+                    }
+        }
+        pageLogin.init();
+    </script>
+
+
+        </div>
+    </div>
+
+    <div class="poweredby center">
+        <p>Powered by</p>
+    </div>
+    <div class="footer center">
+        <p>
+            <span>© 2017 ESi Acquisition Inc. All rights reserved.</span>
+        </p>
+    </div>
+
+
+
+                <section class="suit-page-container">
+                    <section class="suit-content" >
+                        
+                        
+                    </section>
+                </section>
+            <input type="hidden" name="ctl00$ctl00$CSRFToken" id="ctl00_ctl00_CSRFToken" value="61a787f9-7d25-49a8-b039-d2bdfb4c00c6" />
+
+<script type="text/javascript">
+//<![CDATA[
+WebForm_AutoFocus('ctl00_ctl00_formBody_body_txtUsername');//]]>
+</script>
+</form>
+        </div>
+    </div>
+
+
+    
+
+    
+</body>
+</html>

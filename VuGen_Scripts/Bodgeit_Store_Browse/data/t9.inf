@@ -1,0 +1,17 @@
+[t9]
+FileName1=t9.htm
+URL1=http://35.196.208.144:8181/bodgeit/score.jsp
+Total=4
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_9.xml
+FileName2=t9_151.png
+URL2=http://35.196.208.144:8181/bodgeit/images/151.png
+FileName3=t9_152.png
+URL3=http://35.196.208.144:8181/bodgeit/images/152.png
+FileName4=t9_154.png
+URL4=http://35.196.208.144:8181/bodgeit/images/154.png
+[ProtocolInfo]
+ProtocolId=QTWeb

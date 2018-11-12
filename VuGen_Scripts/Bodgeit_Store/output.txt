@@ -1,0 +1,36 @@
+Virtual User Script started at : 8/15/2018 10:03:45 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.0.0 for Windows 8; build 2739 (Nov 30 2014 23:13:05)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Run-Time Settings file: "C:\Users\kwong\OneDrive - World Health Organization\Documents\VuGen\Scripts\Bodgeit_Store\\default.cfg"  	[MsgId: MMSG-27141]
+Starting to download the proxy automatic configuration script, URL="http://gscproxy:8081/proxy.pac"  	[MsgId: MMSG-27097]
+Proxy automatic configuration script (URL="http://gscproxy:8081/proxy.pac") downloaded and evaluated successfully  	[MsgId: MMSG-27096]
+vuser_init.c(12): web_url("favicon.ico") started  	[MsgId: MMSG-26355]
+vuser_init.c(12): web_url("favicon.ico") was successful, 21630 body bytes, 311 header bytes  	[MsgId: MMSG-26386]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Warning -27077: The "vuser_init" section contains web function(s) when the "Simulate a new user on each iteration" Run-Time Setting is ON.  This may produce unpredictable results with multiple iterations  	[MsgId: MWAR-27077]
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Login.
+Login.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Login.c(4): Found resource "http://35.196.208.144:8181/bodgeit/style.css" in HTML "http://35.196.208.144:8181/bodgeit/"  	[MsgId: MMSG-26659]
+Login.c(4): Found resource "http://35.196.208.144:8181/bodgeit/js/util.js" in HTML "http://35.196.208.144:8181/bodgeit/"  	[MsgId: MMSG-26659]
+Login.c(4): web_url("bodgeit") was successful, 5529 body bytes, 953 header bytes  	[MsgId: MMSG-26386]
+Login.c(13): web_url("login.jsp") started  	[MsgId: MMSG-26355]
+Login.c(13): Resource "http://35.196.208.144:8181/bodgeit/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Login.c(13): Resource "http://35.196.208.144:8181/bodgeit/js/util.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Login.c(13): web_url("login.jsp") was successful, 2470 body bytes, 249 header bytes  	[MsgId: MMSG-26386]
+Login.c(22): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Login.c(22): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Login.c(24): web_submit_form("login.jsp_2") started  	[MsgId: MMSG-26355]
+Login.c(24): Submitting form to "http://35.196.208.144:8181/bodgeit/login.jsp", Target Frame=""  	[MsgId: MMSG-27978]
+Login.c(24): Resource "http://35.196.208.144:8181/bodgeit/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Login.c(24): Resource "http://35.196.208.144:8181/bodgeit/js/util.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Login.c(24): web_submit_form("login.jsp_2") was successful, 1942 body bytes, 249 header bytes  	[MsgId: MMSG-26386]
+Ending action Login.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

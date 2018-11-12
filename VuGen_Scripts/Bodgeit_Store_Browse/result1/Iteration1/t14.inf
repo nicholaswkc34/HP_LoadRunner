@@ -1,0 +1,25 @@
+[t14]
+FileName2=t8_6_151.png
+FileName5=t5_3_css.css
+FileName4=t8_4_154.png
+FileName7=t1_1_style.css
+FileName6=t1_2_favicon.ico
+FileName8=t1_0_util.UNK
+RequestBodyFile=t14_RequestBody.txt
+ContentType=text/html
+URL1=http://35.196.208.144:8181/bodgeit/search.jsp
+URL2=http://35.196.208.144:8181/bodgeit/images/151.png
+URL3=http://35.196.208.144:8181/bodgeit/images/152.png
+ResponseHeaderFile=t14_ResponseHeader.txt
+URL4=http://35.196.208.144:8181/bodgeit/images/154.png
+URL5=http://10.28.14.56/vshoc/css/css.ashx?t=login&l=1033
+URL6=http://35.196.208.144:8181/favicon.ico
+URL7=http://35.196.208.144:8181/bodgeit/style.css
+URL8=http://35.196.208.144:8181/bodgeit/js/util.js
+SnapshotXmlFile=snapshot_15.xml
+RequestHeaderFile=t14_RequestHeader.txt
+SaveSnapshotResources=1
+Total=8
+StepName=Link: Search
+FileName1=t14.html
+FileName3=t8_5_152.png

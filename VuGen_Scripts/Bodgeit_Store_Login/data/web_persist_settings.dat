@@ -1,0 +1,25 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2018/08/15 01:19:37
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2018/08/15 01:29:44
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2018/08/15 01:32:34
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2018/08/15 01:38:36
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2018/08/15 01:40:39
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2018/08/15 01:44:03
+StartRecordingIsDst_6=0
+StartRecordingGMT_7=2018/08/15 01:50:54
+StartRecordingIsDst_7=0
+StartRecordingGMT_8=2018/08/15 01:53:31
+StartRecordingIsDst_8=0
+StartRecordingGMT_9=2018/08/15 02:02:20
+StartRecordingIsDst_9=0
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+[Security]
+UsingPersistForAuthentication=1
+[UserHomePage]
+UserHomePage=https://intranet.who.int

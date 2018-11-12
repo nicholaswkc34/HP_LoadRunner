@@ -1,0 +1,12 @@
+GET http://35.196.208.144:8181/bodgeit/home.jsp HTTP/1.1
+Host: 35.196.208.144:8181
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+DNT: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://35.196.208.144:8181/bodgeit/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=CD223E4AE70590A3D8D571BEEC402DB4
+

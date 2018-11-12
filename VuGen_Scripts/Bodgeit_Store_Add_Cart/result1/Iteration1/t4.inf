@@ -1,0 +1,15 @@
+[t4]
+URL3=http://35.196.208.144:8181/bodgeit/js/util.js
+SnapshotXmlFile=snapshot_5.xml
+ContentType=text/html
+StepName=Submit Form: login.jsp_2
+Total=3
+FileName1=t4.html
+FileName3=t1_0_util.UNK
+FileName2=t1_1_style.css
+RequestHeaderFile=t4_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t4_ResponseHeader.txt
+RequestBodyFile=t4_RequestBody.txt
+URL1=http://35.196.208.144:8181/bodgeit/login.jsp
+URL2=http://35.196.208.144:8181/bodgeit/style.css

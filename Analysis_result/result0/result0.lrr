@@ -1,0 +1,34 @@
+[Scenario]
+Product=HP LoadRunner Controller
+Version=12.0.0.0
+Path=C:\Program Files (x86)\HP\LoadRunner\scenario\Bodgeit_Store_SimpleScenario.lrs
+Subject=Bodgeit_Store_SimpleScenario
+Result_file=c:\program files (x86)\hp\loadrunner\result\result0\result0.lrr
+Description=
+ResultName=result0
+Time_Zone=-28800
+Start_time=1534503664
+Daylight_Bias=0
+Stop_time=1534503783
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Group schedule for: bodgeit_store_add_cart
+Mode=Group Scheduling
+Scenario Duration=Unknown duration
+Load Behavior=Defined per scenario group
+[Scripts]
+Bodgeit_Store_Add_Cart=C:\Users\kwong\OneDrive - World Health Organization\Documents\VuGen\Scripts\Bodgeit_Store_Add_Cart\Bodgeit_Store_Add_Cart.usr
+Bodgeit_Store_Browse=C:\Users\kwong\OneDrive - World Health Organization\Documents\VuGen\Scripts\Bodgeit_Store_Browse\Bodgeit_Store_Browse.usr
+[Scripts_types]
+Bodgeit_Store_Add_Cart=Multi+QTWeb
+Bodgeit_Store_Browse=Multi+QTWeb

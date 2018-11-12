@@ -1,0 +1,461 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html class="background_gradient" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Website could not be retrieved</title>
+    <style type="text/css">
+        html.background_gradient {
+  min-height: 100%;
+  background: #ffffff; /* Old browsers */
+  background: -moz-linear-gradient(top, #ffffff 36%, #e5e5e5 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(36%,#ffffff), color-stop(100%,#e5e5e5)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ffffff 36%,#e5e5e5 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ffffff 36%,#e5e5e5 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ffffff 36%,#e5e5e5 100%); /* IE10+ */
+  background: linear-gradient(to bottom, #ffffff 36%,#e5e5e5 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+}
+body {
+  font-family:Helvetica, Arial, sans-serif;
+  margin-top:135px;
+}
+table.mainTable {
+  border-collapse:collapse;
+  width:635px;
+  margin:auto;
+}
+.icon {
+  border-right:1px solid #c6c7c8;
+}
+.icon img {
+  margin:25px 22px 0 0;
+}
+h1 {
+  font-size:28px;
+  margin:0 25px 15px;
+}
+p {
+  margin:0 25px;
+}
+p,a,pre {
+  font-size:12px;
+}
+a {
+  color:#888;
+  margin-right:20px;
+}
+a:hover {
+  color:#000;
+}
+.timestamp p {
+  color:#888;
+  margin-bottom:25px;
+  font-size:10px;
+}
+.details p {
+  line-height:16px;
+  margin-bottom: 3px;
+}
+.url p {
+  color:#888;
+}
+.quote {
+  color:#888;
+  margin:3px 25px;
+  white-space: pre-wrap;
+}
+.actions {
+  margin-top:10px;
+}
+ul {
+  margin:17px 25px;
+  padding:0px;
+}
+li {
+  display:inline-block;
+  list-style-type:none;
+  vertical-align:middle;
+}
+.footer p {
+  font-size:10px;
+}
+.client_logo img {
+  margin-left:25px;
+  max-height:45px;
+}
+table.dirlisting {
+  font-size:12px;
+  margin:10px 25px;
+}
+table.dirlisting a,img,td,th {
+  margin: 0px;
+  font-size: 12px;
+  text-align: left;
+}
+table.dirlisting td {
+  padding-right: 5px;
+}
+table.dirlisting img {
+  vertical-align: middle;
+  margin: 0px;
+  padding-right: 3px;
+}
+table.dirlisting .icon {
+  border: none;
+}
+table.dirlisting .date {
+  text-align: right;
+}
+.dirlisting .quote {
+  font-family: Monospace;
+}
+table.dirlist {
+  min-width: 635px;
+  width: auto;
+}
+
+        
+        
+          
+        
+    </style>
+    <script language="JavaScript">
+        // This function determines, how many decimals the given number has.
+function decimalPlaces(num) {
+  var match = (''+num).match(/(?:\.(\d+))?(?:[eE]([+-]?\d+))?$/);
+  if (!match) { return 0; }
+  return Math.max(
+    0,
+    // Number of digits right of decimal point.
+    (match[1] ? match[1].length : 0)
+    // Adjust for scientific notation.
+    - (match[2] ? +match[2] : 0));
+}
+
+// This function will convert the timezone tag from a tag showing the time difference in minutes into a tag showing it in hours and a padded front.
+function timeZone(tz) {
+  // Check if the timezone is above zero.
+  if (tz > 0) {
+    // Create hours out of minutes
+    tz = tz / 60
+    // Get decimal places of the time zone.
+    var negative_decimalPlaces_tz = decimalPlaces(tz)
+    /*##### ADD NEGATIVE TIMEZONE HEADER #####*/
+    // Check if the timezone under 10.
+    if (tz < 10) {
+      // If so then add a minus and a zero ('-0') padding at the front of the number.
+      tz = "-0" + tz
+    } else {
+      // If not, then put only the minus ('-')in front of the timezone.
+      tz = "-" + tz
+    }
+    /*##### ADD TIMEZONE FOOTER #####*/
+    // Check if the decimal places of the time zone are zero.
+    if (negative_decimalPlaces_tz == 0) {
+      // If so, add a double zero at the end of the time zone.
+      tz = tz + "00"
+    // Check if the result has one decimal
+    } else if (negative_decimalPlaces_tz == 1) {
+      // Then you can add only one zero.
+      tz = tz + "0"
+    }
+  } else {
+    // Turn minutes into hours.
+    tz = tz / -60
+    // Get decimal places of the time zone.
+    var positive_decimalPlaces_tz = decimalPlaces(tz)
+    /*##### ADD POSITIVE TIMEZONE HEADER #####*/
+    // Check if the time zone is greater than ten.
+    if (tz < 10) {
+      // If so add a padded plus zero ('+0') at the beginning.
+      tz = "+0" + tz
+    } else {
+      // If this is not the case, only add the plus ('+').
+      tz = "+" + tz
+    }
+    /*##### ADD TIMEZONE FOOTER #####*/
+    // Check if the time zone has zero decimal digits.
+    if (positive_decimalPlaces_tz == 0 ) {
+      // If so, add a double zero at the end.
+      tz = tz + "00"
+    // Check if the time zone has 1 decimal digit.
+    } else if (positive_decimalPlaces_tz == 1) {
+      // If so, add one zero at the end.
+      tz = tz + "0"
+    }
+  }
+  // Replace any dots ('.') with nothing. This is for the float numbers. It's to get them into the right format.
+  tz = tz.replace('.','')
+  return(tz)
+}
+function formatDate() {
+  // All the names of the Months
+  var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  // Initialise the date
+  var d = new Date("[No Error Detail]ATE%");
+  // Patch the date and time string together
+  var date =  ('0' + d.getDate()).slice(-2) + "/" + months[d.getMonth()] + "/" + d.getFullYear() + ":" + ('0' + d.getHours()).slice(-2) + ":" + ('0' + d.getMinutes()).slice(-2) + ":" + ('0' + d.getSeconds()).slice(-2) + " " + timeZone(d.getTimezoneOffset());
+  // returns the date and time
+  return(date)
+}
+
+
+    </script>
+</head>
+
+<body>
+    <table class="mainTable">
+        <tr>
+            <td valign="top" class="icon">
+                <img id="icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAABqCAYAAABUIcSXAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
+NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz
+b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1N
+Ok9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMzgwMTE3NDA3MjA2ODExODA4M0ZGOERGMzY3
+MDA0NCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowRTgzRUM3QTZEMEYxMUUyOTdEQThCODcw
+RTFEOTI3OSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowRTgzRUM3OTZEMEYxMUUyOTdEQThC
+ODcwRTFEOTI3OSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRv
+c2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MDM4MDEx
+NzQwNzIwNjgxMTgwODNGMUNBOUVGODA2QTkiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDM4
+MDExNzQwNzIwNjgxMTgwODNGRjhERjM2NzAwNDQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRm
+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
+AABJRU5ErkJggg==
+"/>
+            </td>
+            <td>
+                <table>
+                    <tr class="headline">
+                        <td>
+                            <h1>Website could not be retrieved</h1>
+                        </td>
+                    </tr>
+                    <tr class="type">
+                        <td>
+                            <p><b>Read Error</b></p>
+                        </td>
+                    </tr>
+                    <tr class="url">
+                        <td>
+                            <p>http://intranet.ncsglobaltech.com:81/ePQS/Main/ServiceProxy</p>
+                        </td>
+                    </tr>
+                    <tr height="16">
+                        &nbsp;
+                    </tr>
+                    <tr class="details">
+                        <td><p>An error condition occurred while reading data from the network. 
+Please retry your request.</p>
+<p class="quote">(104) Connection reset by peer</p></td>
+                    </tr>
+                    <tr class="actions">
+                        <td>
+                            <ul>
+                                <li>
+                                    <pre id="mailbody" style="display: none">
+who-sg008-my-sel-1 (15/Aug/2018:04:24:25 +0200)
+
+CLIENT: 10.64.223.57 (-)
+REQUEST: POST http://intranet.ncsglobaltech.com:81/ePQS/Main/ServiceProxy (219.92.230.129)
+
+ERROR: ERR_READ_ERROR; (104) Connection reset by peer; [not available]; [Unknown Error Code], [No Error Detail]; Computers &amp; Technology; nothing, nothing; [unknown]
+</pre>
+<script language="JavaScript">
+    var subject = "Problem Report: intranet.ncsglobaltech.com (ERR_READ_ERROR)";
+    var mailbody = document.getElementById("mailbody").innerHTML;
+    if (document.getElementById("mailbody").innerText) mailbody = document.getElementById("mailbody").innerText;
+    mailbody = mailbody.replace(/(^\s+| \(-\)|(, |; )?(\(?\[[A-Za-z0-9 ]+\]\)?|nothing, nothing)|; (?=;))/gi, "");
+  mailbody = mailbody.replace(/(\r\n|\n|\r)+(?=,)/gm, "");
+  var mailto_link = "mailto:globalservicedesk@who.int?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(mailbody);
+      mailto_link = mailto_link.substring(0,500);
+  document.write('<a href="' + mailto_link + '">Report to WHO Global Service Desk</a>');
+</script>
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr height="60">
+                        &nbsp;
+                    </tr>
+                      <tr class="client_logo">
+                        <td>
+                          <img id="client_logo" src="data:image/gif;base64,R0lGODlhfgAoAPcAABQSFISKjMTGxExOTKSqpOTm5GxubDQyNJSalNTW1LS6tFxeXHx+fCQiJPT2
+9ERCRMzOzKyyrHR2dJyinFRWVOzu7BwaHIySjDw6PNze3LzCxGRmZCwqLISGhPz+/HR2fMTKzKSq
+rJSanLzCvIR+hPT6/ExKTMzS1KyytJyipFRWXOzy9HR6fBwWHIyOjFROVOzq7HRudDw2PNza3Ly6
+vGReZCwmLExGTCQeJJSSlEQ+ROTi5GRmbDQuNKyurJyenHyChLS2tKSmpFxaXBQWFIyKjMTKxOTq
+5DQ2NNTa1CQmJPT69ERGRMzSzOzy7BweHDw+PNzi3MTCxCwuLHx2fMzKzKyqrJyanPz6/NTS1LSy
+tKSipFxWXPTy9Hx6fFRSVHRydLy+vGRiZJSWlGxqbISChACAEgB8AP/qKP+iwv8+Qv93fv/AdP9A
+A/8Xtf8AAAAghADrAAASAAAAAAC4AACJAAAVAAAAAADotwDqABUSOgAAAVX+AEqsnwA+gAB3fJAA
++OkAHxIAGQAAAJ8gAOvrAIESAHwAAEsAB+MEAIEAAHwAAEAQAHjrAFASAAAAAIjAAGf1EAESGQAA
+AGy4AACJAAAVAAAAAMxVAOhKABIAAAAAADSoAADqAAASAMAAAAi1APwrABKDAAB8ACAACOkAn5AA
+gHwAfGAA/wAA/5EA/3wA//8AAP8An/8AgP8AfF0AMAABAJEAAHwAAOoZMPQsAICDAHx8AADMWADq
+8RUSEgAAAAD0/wAr/wCD/wB8/4gAAGcAABUAAAAAAAD41AEf6wAZEgAAAABkxgBkPACDTAB8APf/
+tPT/64D/Enz/ALjQd+rrEBISTwAAAIid6Gdk6xWDEgB8ACRgZP8tZABPgwAAfAB0lAA27RVPEgAA
+ALAAzucB/xIA/wAAfwDMZADq7RUSEgAAAAwA+OoBHxIAGQAAACC4ZOlkZJCDg3x8fOAB+AEAH5EA
+GXwAAP8AVf8ASv8wAP8AANuNAAECAJEAAHwAAH+ftpoB6gEARwAAACH5BAAAAAAALAAAAAB+ACgA
+Bwj/AD0IHEiwoMGDCBMqXMiwocOHEBeWkGDAQcSLGDNq3FhwBgAAEDiKHElSZIaPGUqqXKnSYkEY
+PoqEeYIjTBEfMAy6ZMmz50sJEQhK6XAlicADB5xkmfGjgxSCWsBU8EmVZYIeYgbuKEOD4A4kMnwI
+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
+"/>
+                      </td>
+                    </tr>
+                      <tr class="footer">
+                        <td>
+                            <p>Mission Control Security Services operated by Open Systems AG<br/>on behalf of World Health Organization.</p>    
+                        </td>
+                    </tr>
+                    <tr class="timestamp">
+                        <td>
+                            <p>who-sg008-my-sel-1 - 15/Aug/2018:04:24:25 +0200</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+<script>
+  
+  if(navigator.userAgent.match(/MSIE (5|6|7)/) != null) {
+    var iconElement = document.getElementById("icon");
+    iconElement.parentNode.removeChild(iconElement);
+    var clientLogoElement = document.getElementById("client_logo");
+    if(clientLogoElement != null) 
+      clientLogoElement.parentNode.removeChild(clientLogoElement);
+  }
+</script>
+</html>
+
+

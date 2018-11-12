@@ -1,0 +1,1128 @@
+[API Trapper      (1ac4:6508)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (5ea4:76e8)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (536c:7b38)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1ac4:2838)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1ac4:2838)] Load Network Traffic Analyzers:
+[Network Analyzer (1ac4:2838)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1ac4:2838)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1ac4:2838)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1ac4:2838)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1ac4:2838)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1ac4:2838)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1ac4:2838)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1ac4:2838)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1ac4:4990)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.40:8081   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.40:8081   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      (1ac4:4990)] "GET /proxy.pac"   
+[Network Analyzer (1ac4:4990)]   (Sid:  1) Client -> Server @ : 233 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET /proxy.pac"   
+[Network Analyzer (1ac4:4990)]   (Sid:  2) Client -> Server @ : 266 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  1) Server -> Client : 2098 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  2) Server -> Client : 2098 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 436 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT clientservices.googleapis.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:  5) Client -> Server @ : 254 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:4990)]   (Sid:  5) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "CONNECT mtalk.google.com:5228"   
+[Network Analyzer (1ac4:4990)]   (Sid:  6) Client -> Server @ : 101 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  6) Server -> Client : 12388 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid:  6) Server -> Client : 13927 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT accounts.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:  7) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:4990)]   (Sid:  7) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "CONNECT raw.githubusercontent.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:  8) Client -> Server @ : 246 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  8) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3569 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (1ac4:4990)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT raw.githubusercontent.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:  9) Client -> Server @ : 246 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT raw.githubusercontent.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 10) Client -> Server @ : 246 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT raw.githubusercontent.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 11) Client -> Server @ : 246 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT raw.githubusercontent.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 12) Client -> Server @ : 246 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 10) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid:  9) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 11) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 12) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT sec-tws-prod-vip.webex.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 13) Client -> Server @ : 248 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT ssl.gstatic.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 14) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT ssl.gstatic.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 15) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 14) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 15) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "CONNECT clients2.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 16) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 16) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 17)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 17) Client -> Server @ : 224 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 17) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 13) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:418c)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:418c)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:5714)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4bec)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5714)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4bec)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:7860)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:7860)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:6a58)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:6a58)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:673c)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:673c)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4: d88)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4: d88)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4f60)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4f60)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:6b68)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:6b68)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (1ac4:55b4)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:55b4)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:1398)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:6e48)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:1398)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:43d4)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:6e48)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:6b68)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "GET http://cacerts.digicert.com/DigiCertSHA2HighAssuranceServerCA.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Client -> Server @ : 191 bytes (Service=HTTP)
+[Network Analyzer (1ac4:6b68)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:6684)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:6684)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (1ac4:6684)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:6684)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 21)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:6b68)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:6b68)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Server -> Client : 1594 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Server -> Client : 1595 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Server -> Client : 1595 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Server -> Client : 1595 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Server -> Client : 1571 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 23)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients2.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 23) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 23) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4e50)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (1ac4:7848)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4e50)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:7848)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://trust.quovadisglobal.com/hydsslg2.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Client -> Server @ : 174 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Server -> Client : 2188 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 24)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT accounts.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 24) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 24) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:736c)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:736c)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 25)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT sec-tws-prod-vip.webex.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 25) Client -> Server @ : 248 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 23) Connection Terminated (by Client)
+[API Trapper      (3740:4dc0)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1ac4:4990)]   (Sid: 25) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (1ac4:5e10)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (1ac4:5e10)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:43d4)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 26)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Server -> Client : 1594 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 27)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68"   
+[Network Analyzer (1ac4:4990)]   (Sid: 27) Client -> Server @ : 529 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 27) Server -> Client : 261 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:  5) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 1_transaction [Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid:  4) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "CONNECT accounts.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 28) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 28) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:6a14)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:6a14)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/login.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 544 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 2719 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 30)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT sec-tws-prod-vip.webex.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 30) Client -> Server @ : 248 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 30) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:7a94)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (1ac4:7a94)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 31)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT accounts.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 31) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 31) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:5ec8)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5ec8)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 31) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "POST http://35.196.208.144:8181/bodgeit/login.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 734 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 2191 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 29) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=6"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 564 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3088 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 33)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=26"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT mtalk.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 33) Client -> Server @ : 99 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 33) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:719c)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:719c)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3708 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Server -> Client : 1595 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 33) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "POST http://35.196.208.144:8181/bodgeit/basket.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 733 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 4345 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 1943 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 34)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 34) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 34) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4bbc)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4bbc)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Server -> Client : 1595 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 35)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=1"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 565 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 35) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 35) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4420)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4420)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3078 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 35) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=2"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 575 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3825 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 37) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 37) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:5dc8)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5dc8)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 37) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "POST http://35.196.208.144:8181/bodgeit/basket.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 729 bytes (Service=HTTP)
+[API Trapper      (48c0:7340)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 4345 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 2483 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 38)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 38) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 38) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:516c)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:516c)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 39)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 39) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 39) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:6944)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:6944)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 39) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/about.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 554 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 2491 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=5"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 564 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3167 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 40)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=7"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 575 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT clients4.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 40) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 40) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4824)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4824)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Server -> Client : 1590 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3223 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 40) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/contact.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 566 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 2662 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=5"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 566 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3167 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 36) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "CONNECT accounts.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 42) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 42) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:24dc)]   (Sid: 42) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:24dc)]   (Sid: 42) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 43)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 43) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 43) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:413c)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:413c)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 42) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 43) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=6"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 575 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3088 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=5"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 575 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 249 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 2918 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=23"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3605 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=5"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3167 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=22"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3705 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT www.guru99.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 44) Client -> Server @ : 224 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 45)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT adservice.google.com.my:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 45) Client -> Server @ : 242 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT adservice.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 46) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 47)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.google-analytics.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 47) Client -> Server @ : 244 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 47) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "CONNECT www.google.com:443"   
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:4990)]   (Sid: 48) Client -> Server @ : 224 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 49)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT pagead2.googlesyndication.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 49) Client -> Server @ : 254 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 49) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 45) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 48) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "CONNECT stats.g.doubleclick.net:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 50) Client -> Server @ : 242 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 46) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 50) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:2020)]   (Sid: 47) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:2020)]   (Sid: 47) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:5b18)]   (Sid: 49) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:6ffc)]   (Sid: 45) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 51)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=5"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT contextual.media.net:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 51) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1ac4:6ffc)]   (Sid: 45) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:5b18)]   (Sid: 49) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:65f0)]   (Sid: 48) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:65f0)]   (Sid: 48) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:6124)]   (Sid: 46) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:6124)]   (Sid: 46) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4a88)]   (Sid: 50) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 52)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT dt.clnmde.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 52) Client -> Server @ : 222 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 53)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT pxlclnmdecom-a.akamaihd.net:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 53) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4a88)]   (Sid: 50) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Client -> Server @ : 147 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Client -> Server @ : 147 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Client -> Server @ : 147 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Client -> Server @ : 147 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Server -> Client : 463 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Server -> Client : 1132 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Server -> Client : 1594 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 53) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Server -> Client : 1595 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Server -> Client : 1595 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Server -> Client : 1594 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:49ac)]   (Sid: 53) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1ac4:49ac)]   (Sid: 53) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 51) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "GET http://cacerts.digicert.com/DigiCertSHA2SecureServerCA.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Client -> Server @ : 184 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Server -> Client : 366 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Server -> Client : 1176 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 52) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3167 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 44) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 48) Connection Terminated (by Client)
+[Network Analyzer (1ac4:5774)]   (Sid: 51) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1ac4:5774)]   (Sid: 51) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://cacerts.digicert.com/DigiCertSHA2SecureServerCA.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Client -> Server @ : 184 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Server -> Client : 1542 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 47) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 41) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 54)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 54) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 49) Connection Terminated (by Client)
+[Network Analyzer (1ac4:68ac)]   (Sid: 52) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4990)]   (Sid: 54) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 46) Connection Terminated (by Client)
+[Network Analyzer (1ac4:68ac)]   (Sid: 52) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 50) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 45) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 53) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=24"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 55)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 51) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://cert.int-x3.letsencrypt.org/"   
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Client -> Server @ : 168 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3578 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Server -> Client : 1542 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:436c)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1ac4:436c)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:16b4)]   (Sid: 54) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:16b4)]   (Sid: 54) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 52) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 54) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://crt.comodoca.com/cPanelIncCertificationAuthority.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Client -> Server @ : 181 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Server -> Client : 2141 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 56)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.googletagmanager.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 56) Client -> Server @ : 244 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 56) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4: bf4)]   (Sid: 56) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 57)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT admhelp.microfocus.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 57) Client -> Server @ : 240 bytes (Service=HTTP)
+[Network Analyzer (1ac4: bf4)]   (Sid: 56) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 58)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT fonts.gstatic.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 58) Client -> Server @ : 230 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 59)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.youtube.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 59) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 59) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 57) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Server -> Client : 1595 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:3040)]   (Sid: 59) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=5"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:3040)]   (Sid: 59) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Net An. Error    (1ac4:7224)]   (Sid: 57) SSL handshake with remote server Failed!
+[Network Analyzer (1ac4:4990)]   (Sid: 58) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 60)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 61)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3167 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Server -> Client : 1594 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:51b4)]   (Sid: 58) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:51b4)]   (Sid: 58) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 56) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 62)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT googleads.g.doubleclick.net:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 62) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 62) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Server -> Client : 1595 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:5a10)]   (Sid: 62) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5a10)]   (Sid: 62) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 59) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=25"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Server -> Client : 1595 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 63)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.youtube.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 63) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 63) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:6dd4)]   (Sid: 63) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Web Request      (1ac4:4990)] "POST http://intranet.ncsglobaltech.com:81/ePQS/Main/ServiceProxy"   
+[Network Analyzer (1ac4:4990)]   (Sid: 60) Client -> Server @ : 688 bytes (Service=HTTP)
+[Network Analyzer (1ac4:6dd4)]   (Sid: 63) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3739 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 64)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 64) Client -> Server @ : 224 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 64) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:58bc)]   (Sid: 64) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:58bc)]   (Sid: 64) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 58) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 60) Server -> Client : 725 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "POST http://intranet.ncsglobaltech.com:81/ePQS/Main/ServiceProxy"   
+[Network Analyzer (1ac4:4990)]   (Sid: 60) Client -> Server @ : 788 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "POST http://intranet.ncsglobaltech.com:81/ePQS/Main/ServiceProxy"   
+[Network Analyzer (1ac4:4990)]   (Sid: 61) Client -> Server @ : 773 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 65)  PROXIED!
+[Web Request      (1ac4:4990)] "POST http://intranet.ncsglobaltech.com:81/ePQS/Main/ServiceProxy"   
+[Network Analyzer (1ac4:4990)]   (Sid: 65) Client -> Server @ : 763 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 61) Server -> Client : 393 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 61) Server -> Client : 261 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 60) Server -> Client : 1083 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 63) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 62) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 64) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=6"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 66)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT www.google-analytics.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 66) Client -> Server @ : 244 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 67)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT adservice.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 67) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 68)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 66) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 67) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "CONNECT securepubads.g.doubleclick.net:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 68) Client -> Server @ : 256 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 65) Server -> Client : 12319 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 68) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Server -> Client : 3088 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:7904)]   (Sid: 66) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:7904)]   (Sid: 66) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 69)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.googletagservices.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 69) Client -> Server @ : 246 bytes (Service=HTTP)
+[Network Analyzer (1ac4:650c)]   (Sid: 67) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4990)]   (Sid: 69) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:650c)]   (Sid: 67) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:3948)]   (Sid: 68) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:3948)]   (Sid: 68) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 70)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT fonts.gstatic.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 70) Client -> Server @ : 230 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 70) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:5ad4)]   (Sid: 69) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5ad4)]   (Sid: 69) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:314c)]   (Sid: 70) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:314c)]   (Sid: 70) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Client -> Server @ : 147 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Server -> Client : 1594 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Server -> Client : 1595 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 66) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 67) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 70) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.28.14.56:80   (Service=)  (Sid= 71)  PROXIED!
+[Web Request      (1ac4:4990)] "GET /vshoc/css/css.ashx?t=login&l=1033"   
+[Network Analyzer (1ac4:4990)]   (Sid: 71) Client -> Server @ : 372 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:4990)]   (Sid: 71) Server -> Client : 382 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 68) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 69) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 72)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=28"   
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Client -> Server @ : 576 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT clients4.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 72) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 73)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT ib.adnxs.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 73) Client -> Server @ : 220 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 74)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT fonts.gstatic.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 74) Client -> Server @ : 230 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 75)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT www.googletagmanager.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 75) Client -> Server @ : 244 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 76)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT adservice.google.com.my:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 76) Client -> Server @ : 242 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 77)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT adservice.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 77) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 78)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT web.hb.ad.cpe.dotomi.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 78) Client -> Server @ : 244 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 79)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 72) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "CONNECT titangate-d.openx.net:443"   
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:4990)]   (Sid: 79) Client -> Server @ : 238 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 80)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT apex.go.sonobi.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 80) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 81)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT adserver-us.adtech.advertising.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 81) Client -> Server @ : 264 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 75) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 76) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 77) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 55) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 82)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT connect.facebook.net:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 82) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 83)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT srv.buysellads.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 83) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 84)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 85)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=28"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 86)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 82) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "CONNECT cdn.datacamp.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 86) Client -> Server @ : 228 bytes (Service=HTTP)
+[Network Analyzer (1ac4:290c)]   (Sid: 72) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:290c)]   (Sid: 72) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 87)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT ib.adnxs.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 87) Client -> Server @ : 220 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 88)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT ib.adnxs.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 88) Client -> Server @ : 220 bytes (Service=HTTP)
+[Network Analyzer (1ac4:74c4)]   (Sid: 75) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4990)]   (Sid: 87) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 88) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:74c4)]   (Sid: 75) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 74) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 81) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 89)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.google-analytics.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 89) Client -> Server @ : 244 bytes (Service=HTTP)
+[Network Analyzer (1ac4:48e4)]   (Sid: 76) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 90)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT adserver-us.adtech.advertising.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 90) Client -> Server @ : 264 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3638 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 91)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT adserver-us.adtech.advertising.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 91) Client -> Server @ : 264 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 89) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:48e4)]   (Sid: 76) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 90) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 91) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4: 530)]   (Sid: 77) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4990)]   (Sid: 79) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4: 530)]   (Sid: 77) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 86) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 78) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 83) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:7be0)]   (Sid: 82) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Net An. Error    (1ac4:50ac)] SSL_connect(ssl_id = -1760566832 = 00000184970FE1D0) Failed, ctx = 00000184A0CC1CC0, err = "SSLv2/v3 read server hello A", err code = 5
+[Network Analyzer (1ac4:50ac)]   (Sid: 87) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:(NONE))
+[Network Analyzer (1ac4:7be0)]   (Sid: 82) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Net An. Error    (1ac4:4be8)] SSL_connect(ssl_id = -1760566048 = 00000184970FE4E0) Failed, ctx = 00000184A0CC1CC0, err = "SSLv2/v3 read server hello A", err code = 5
+[Network Analyzer (1ac4:4be8)]   (Sid: 88) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:(NONE))
+[Network Analyzer (1ac4:50ac)]   (Sid: 87) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4be8)]   (Sid: 88) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 80) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:6b3c)]   (Sid: 74) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:6b3c)]   (Sid: 74) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:5a4c)]   (Sid: 81) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:2574)]   (Sid: 89) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5a4c)]   (Sid: 81) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:2574)]   (Sid: 89) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4284)]   (Sid: 90) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4284)]   (Sid: 90) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:67e4)]   (Sid: 91) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:67e4)]   (Sid: 91) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 73) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 92)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT googleads.g.doubleclick.net:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 92) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 92) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:1388)]   (Sid: 79) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Web Request      (1ac4:4990)] "GET http://cacerts.digicert.com/DigiCertSHA2HighAssuranceServerCA.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Client -> Server @ : 191 bytes (Service=HTTP)
+[Network Analyzer (1ac4:1388)]   (Sid: 79) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://cacerts.digicert.com/DigiCertSHA2HighAssuranceServerCA.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Client -> Server @ : 191 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Server -> Client : 366 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Server -> Client : 1205 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://cacerts.digicert.com/DigiCertECCSecureServerCA.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Client -> Server @ : 183 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Server -> Client : 1309 bytes  (Service=HTTP)
+[Net An. Error    (1ac4:70b8)]   (Sid: 86) SSL handshake with remote server Failed!
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Server -> Client : 1571 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[API Trapper      (514c:7b88)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 93)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.google-analytics.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 93) Client -> Server @ : 244 bytes (Service=HTTP)
+[Network Analyzer (1ac4:70c8)]   (Sid: 78) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:RC4-MD5)
+[Network Analyzer (1ac4:4990)]   (Sid: 93) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 94)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 94) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 95)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT cdn.datacamp.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 95) Client -> Server @ : 228 bytes (Service=HTTP)
+[Network Analyzer (1ac4: df8)]   (Sid: 83) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1ac4:70c8)]   (Sid: 78) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 94) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4: df8)]   (Sid: 83) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 95) Server -> Client : 39 bytes 
+[Web Request      (1ac4:4990)] "GET http://crt.comodoca.com/COMODORSADomainValidationSecureServerCA.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Client -> Server @ : 189 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Server -> Client : 2164 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:3ac8)]   (Sid: 80) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:3ac8)]   (Sid: 80) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Net An. Error    (1ac4:6ea8)] SSL_connect(ssl_id = -1759571168 = 00000184971F1320) Failed, ctx = 00000184A0CC1CC0, err = "SSLv2/v3 read server hello A", err code = 5
+[Network Analyzer (1ac4:6ea8)]   (Sid: 73) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:(NONE))
+[Network Analyzer (1ac4:6ea8)]   (Sid: 73) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://secure.globalsign.com/cacert/gsorganizationvalsha2g2r1.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Client -> Server @ : 192 bytes (Service=HTTP)
+[Network Analyzer (1ac4:39dc)]   (Sid: 92) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:39dc)]   (Sid: 92) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:5b3c)]   (Sid: 93) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5b3c)]   (Sid: 93) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://certificates.godaddy.com/repository/gdig2.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Client -> Server @ : 182 bytes (Service=HTTP)
+[Network Analyzer (1ac4:5308)]   (Sid: 94) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5308)]   (Sid: 94) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 72) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Server -> Client : 1669 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Server -> Client : 1633 bytes  (Service=HTTP)
+[Net An. Error    (1ac4:6620)]   (Sid: 95) SSL handshake with remote server Failed!
+[Network Analyzer (1ac4:4990)]   (Sid: 75) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "POST http://35.196.208.144:8181/bodgeit/basket.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 732 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 76) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 77) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 96)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT jenkins.io:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 96) Client -> Server @ : 216 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 87) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 88) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 7375 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 97)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 97) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 97) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:5754)]   (Sid: 97) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5754)]   (Sid: 97) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 74) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 89) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 81) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 90) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 91) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 79) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 82) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 73) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 92) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 98)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.youtube.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 98) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 98) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 96) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid: 93) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 83) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 94) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4db4)]   (Sid: 98) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4db4)]   (Sid: 98) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 80) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 78) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 97) Connection Terminated (by Client)
+[Net An. Error    (1ac4:3220)]   (Sid: 96) SSL handshake with remote server Failed!
+[Network Analyzer (1ac4:4990)]   (Sid: 98) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid= 99)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=6"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 565 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT syndication.twitter.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid: 99) Client -> Server @ : 242 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 99) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:1a08)]   (Sid: 99) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:1a08)]   (Sid: 99) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3088 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://cacerts.digicert.com/DigiCertSHA2HighAssuranceServerCA.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Client -> Server @ : 191 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Server -> Client : 1571 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 99) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=27"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3542 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=100)  PROXIED!
+[Web Request      (1ac4:4990)] "POST http://35.196.208.144:8181/bodgeit/basket.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 732 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT mtalk.google.com:5228"   
+[Network Analyzer (1ac4:4990)]   (Sid:100) Client -> Server @ : 101 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:100) Server -> Client : 13848 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:100) Server -> Client : 12467 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:100) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 4345 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3572 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=101)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:101) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=102)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.youtube.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:102) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 85) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:101) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid:102) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:742c)]   (Sid:101) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:742c)]   (Sid:101) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:6d0c)]   (Sid:102) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:6d0c)]   (Sid:102) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=103)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.youtube.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:103) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:103) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:69c8)]   (Sid:103) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:69c8)]   (Sid:103) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid:101) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:102) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:103) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=3"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=104)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3658 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=9"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 575 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3797 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "POST http://35.196.208.144:8181/bodgeit/basket.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 729 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 7921 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=105)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:105) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:105) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:6ba8)]   (Sid:105) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:6ba8)]   (Sid:105) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=6"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=106)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:106) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:106) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:7a5c)]   (Sid:106) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:7a5c)]   (Sid:106) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3088 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:105) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:106) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=107)  PROXIED!
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=5"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 575 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT admhelp.microfocus.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:107) Client -> Server @ : 240 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:107) Server -> Client : 39 bytes 
+[Net An. Error    (1ac4: f58)]   (Sid:107) SSL handshake with remote server Failed!
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 1709 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 1458 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:104) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=3"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 575 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=108)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3658 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=14"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3788 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=109)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT safebrowsing.googleapis.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:109) Client -> Server @ : 250 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:109) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:6f78)]   (Sid:109) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:6f78)]   (Sid:109) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://pki.goog/gsr2/GTSGIAG3.crt"   
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Server -> Client : 1590 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:109) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "POST http://35.196.208.144:8181/bodgeit/basket.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 732 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 1715 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 6778 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=110)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:110) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:110) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:6c4c)]   (Sid:110) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:6c4c)]   (Sid:110) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid:110) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=3"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=111)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3658 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:111) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:111) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:50b4)]   (Sid:111) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:50b4)]   (Sid:111) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid:108) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=112)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:112) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:112) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:5444)]   (Sid:112) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5444)]   (Sid:112) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=10"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=113)  PROXIED!
+[Network Analyzer (1ac4:4990)]   (Sid:111) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:112) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3607 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=114)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT www.youtube.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:114) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=115)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT jenkins.io:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:115) Client -> Server @ : 216 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:114) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=116)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT www.youtube.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:116) Client -> Server @ : 226 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:116) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid:115) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:5070)]   (Sid:114) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:5070)]   (Sid:114) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4: 3a4)]   (Sid:116) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4: 3a4)]   (Sid:116) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Net An. Error    (1ac4:711c)]   (Sid:115) SSL handshake with remote server Failed!
+[Web Request      (1ac4:4990)] "POST http://35.196.208.144:8181/bodgeit/basket.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 731 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:114) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:116) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 9031 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=117)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:117) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:117) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:708c)]   (Sid:117) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:708c)]   (Sid:117) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=2"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3296 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:117) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=4"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 575 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3835 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=118)  PROXIED!
+[Web Request      (1ac4:4990)] "POST http://35.196.208.144:8181/bodgeit/basket.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 729 bytes (Service=HTTP)
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:118) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:118) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4: 6a4)]   (Sid:118) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4: 6a4)]   (Sid:118) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 255 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 8778 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=119)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT clients1.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:119) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:119) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4d00)]   (Sid:119) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4d00)]   (Sid:119) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4990)]   (Sid:118) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:119) Connection Terminated (by Client)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?typeid=4"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3336 bytes  (Service=HTTP)
+[Web Request      (1ac4:4990)] "GET http://35.196.208.144:8181/bodgeit/product.jsp?prodid=19"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 576 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 3747 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:113) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=120)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=121)  PROXIED!
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Web Request      (1ac4:4990)] "CONNECT clients4.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:121) Client -> Server @ : 232 bytes (Service=HTTP)
+[Network Analyzer (1ac4:2838)] Request Connection: Remote Server @ 10.64.150.9:8080   (Service=)  (Sid=122)  PROXIED!
+[Web Request      (1ac4:4990)] "CONNECT accounts.google.com:443"   
+[Network Analyzer (1ac4:4990)]   (Sid:122) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:121) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:4990)]   (Sid:122) Server -> Client : 39 bytes 
+[Network Analyzer (1ac4:70b0)]   (Sid:121) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:70b0)]   (Sid:121) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer (1ac4:4068)]   (Sid:122) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (1ac4:4068)]   (Sid:122) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      (1ac4:4990)] "POST http://35.196.208.144:8181/bodgeit/basket.jsp"   
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Client -> Server @ : 732 bytes (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid:121) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid:122) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 4359 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 84) Server -> Client : 5222 bytes  (Service=HTTP)
+[Network Analyzer (1ac4:4990)]   (Sid: 27) Connection Terminated (by Server)
+[Network Analyzer (1ac4:4990)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (1ac4:4990)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (1ac4:2838)] Address lookup for KUL11N0099313 = 10.64.223.57
+[Network Analyzer (1ac4:4990)]   (Sid: 60) Connection Terminated (by Server)
+[Network Analyzer (1ac4:4990)]   (Sid: 61) Connection Terminated (by Server)
+[Network Analyzer (1ac4:4990)]   (Sid: 65) Connection Terminated (by Server)
+[Network Analyzer (1ac4:4990)]   (Sid: 71) Connection Terminated (by Server)

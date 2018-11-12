@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=CD223E4AE70590A3D8D571BEEC402DB4; Path=/bodgeit; HttpOnly
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 3247
+Date: Wed, 15 Aug 2018 01:32:49 GMT
+X-Cache: MISS from who-sg008-my-sel-1
+Via: 1.1 who-sg008-my-sel-1 (squid)
+Connection: keep-alive
+

@@ -1,0 +1,12 @@
+POST http://35.196.208.144:8181/bodgeit/basket.jsp HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://35.196.208.144:8181/bodgeit/product.jsp?prodid=9
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Accept: */*
+Proxy-Connection: Keep-Alive
+Host: 35.196.208.144:8181
+Cookie: JSESSIONID=3677ECA8751FC828A9A622BFFED9C8CC
+Content-Length: 32
+

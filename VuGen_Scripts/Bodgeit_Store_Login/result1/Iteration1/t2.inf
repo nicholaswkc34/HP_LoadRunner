@@ -1,0 +1,17 @@
+[t2]
+URL3=http://35.196.208.144:8181/bodgeit/style.css
+SnapshotXmlFile=snapshot_4.xml
+URL4=http://35.196.208.144:8181/favicon.ico
+ContentType=text/html
+StepName=Url: login.jsp
+Total=4
+FileName1=t2.html
+FileName3=t1_1_style.css
+FileName2=t1_2_util.UNK
+RequestHeaderFile=t2_RequestHeader.txt
+FileName4=t1_0_favicon.ico
+SaveSnapshotResources=1
+ResponseHeaderFile=t2_ResponseHeader.txt
+RequestBodyFile=t2_RequestBody.txt
+URL1=http://35.196.208.144:8181/bodgeit/login.jsp
+URL2=http://35.196.208.144:8181/bodgeit/js/util.js

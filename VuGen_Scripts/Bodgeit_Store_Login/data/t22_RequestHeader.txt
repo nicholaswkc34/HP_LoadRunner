@@ -1,0 +1,10 @@
+GET /vshoc/css/css.ashx?t=login&l=1033 HTTP/1.1
+Host: 10.28.14.56
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+DNT: 1
+Accept: text/css,*/*;q=0.1
+Referer: http://10.28.14.56/vshoc/default.aspx
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+

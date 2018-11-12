@@ -1,0 +1,1158 @@
+Browse.c(65): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Start auto log messages stack - Iteration 10340.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 10590.	[MsgId: MMSG-10545]
+Browse.c(94): Resource "http://35.196.208.144:8181/bodgeit/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Browse.c(94): Resource "http://35.196.208.144:8181/bodgeit/js/util.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Browse.c(79): Found resource "http://35.196.208.144:8181/bodgeit/images/152.png" in HTML "http://35.196.208.144:8181/bodgeit/score.jsp"  	[MsgId: MMSG-26659]
+Browse.c(94): web_link("Whatchamacallits") was successful, 2929 body bytes, 249 header bytes  	[MsgId: MMSG-26386]
+Browse.c(79): Found resource "http://35.196.208.144:8181/bodgeit/images/154.png" in HTML "http://35.196.208.144:8181/bodgeit/score.jsp"  	[MsgId: MMSG-26659]
+Browse.c(99): web_link("Thingies") started  	[MsgId: MMSG-26355]
+Browse.c(79): web_link("Scoring page") was successful, 5810 body bytes, 1161 header bytes  	[MsgId: MMSG-26386]
+Browse.c(99): Linking to "http://35.196.208.144:8181/bodgeit/product.jsp?typeid=2", Target Frame=""  	[MsgId: MMSG-27994]
+Browse.c(99): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(84): web_link("Gizmos") started  	[MsgId: MMSG-26355]
+Browse.c(99): Error -27762: Request "http://35.196.208.144:8181/bodgeit/product.jsp?typeid=2" failed  	[MsgId: MERR-27762]
+Browse.c(84): Linking to "http://35.196.208.144:8181/bodgeit/product.jsp?typeid=5", Target Frame=""  	[MsgId: MMSG-27994]
+Browse.c(84): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(84): Error -27762: Request "http://35.196.208.144:8181/bodgeit/product.jsp?typeid=5" failed  	[MsgId: MERR-27762]
+End auto log messages stack.	[MsgId: MMSG-10544]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+
+
+Start auto log messages stack - Iteration 10341.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(65): Error -27762: Request "http://35.196.208.144:8181/bodgeit/product.jsp?typeid=6" failed  	[MsgId: MERR-27762]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10591.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+
+
+Start auto log messages stack - Iteration 10596.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10342.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10597.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 10691.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+
+
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+Start auto log messages stack - Iteration 10592.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+
+
+Start auto log messages stack - Iteration 10343.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10584.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Start auto log messages stack - Iteration 10692.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10607.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+Start auto log messages stack - Iteration 10344.	[MsgId: MMSG-10545]
+
+
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10345.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10608.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10628.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Start auto log messages stack - Iteration 10346.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10609.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+End auto log messages stack.	[MsgId: MMSG-10544]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10347.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10610.	[MsgId: MMSG-10545]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10611.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 10348.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10629.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10612.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10630.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10631.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10613.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Start auto log messages stack - Iteration 10632.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10633.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10349.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10350.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10351.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10352.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10353.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10354.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10355.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10356.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Start auto log messages stack - Iteration 10357.	[MsgId: MMSG-10545]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10358.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10359.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10693.	[MsgId: MMSG-10545]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10589.	[MsgId: MMSG-10545]
+End auto log messages stack.	[MsgId: MMSG-10544]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+
+
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+End auto log messages stack.	[MsgId: MMSG-10544]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10593.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10598.	[MsgId: MMSG-10545]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/bodgeit/js/util.js" failed  	[MsgId: MWAR-27762]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/favicon.ico" failed  	[MsgId: MWAR-27762]
+Browse.c(4): web_url("bodgeit") highest severity level was "warning", 3230 body bytes, 331 header bytes  	[MsgId: MMSG-26388]
+Browse.c(15): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Browse.c(15): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Browse.c(17): web_url("seed") started  	[MsgId: MMSG-26355]
+Browse.c(17): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10634.	[MsgId: MMSG-10545]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/bodgeit/js/util.js" failed  	[MsgId: MWAR-27762]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/favicon.ico" failed  	[MsgId: MWAR-27762]
+Browse.c(4): web_url("bodgeit") highest severity level was "warning", 3200 body bytes, 331 header bytes  	[MsgId: MMSG-26388]
+Browse.c(15): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Browse.c(15): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Browse.c(17): web_url("seed") started  	[MsgId: MMSG-26355]
+Browse.c(17): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10635.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10636.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10544.	[MsgId: MMSG-10545]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/bodgeit/js/util.js" failed  	[MsgId: MWAR-27762]
+Start auto log messages stack - Iteration 10637.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/favicon.ico" failed  	[MsgId: MWAR-27762]
+Browse.c(4): web_url("bodgeit") highest severity level was "warning", 3233 body bytes, 331 header bytes  	[MsgId: MMSG-26388]
+Browse.c(15): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Browse.c(15): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Browse.c(17): web_url("seed") started  	[MsgId: MMSG-26355]
+Browse.c(17): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10545.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Start auto log messages stack - Iteration 10638.	[MsgId: MMSG-10545]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Starting action Browse.	[MsgId: MMSG-15919]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10546.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10639.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10640.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10641.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10642.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10547.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10643.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10548.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10549.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10644.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10594.	[MsgId: MMSG-10545]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/bodgeit/js/util.js" failed  	[MsgId: MWAR-27762]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/favicon.ico" failed  	[MsgId: MWAR-27762]
+Browse.c(4): web_url("bodgeit") highest severity level was "warning", 3223 body bytes, 331 header bytes  	[MsgId: MMSG-26388]
+Browse.c(15): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Browse.c(15): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Browse.c(17): web_url("seed") started  	[MsgId: MMSG-26355]
+Browse.c(17): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10645.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+
+
+Start auto log messages stack - Iteration 10550.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10551.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Start auto log messages stack - Iteration 10646.	[MsgId: MMSG-10545]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Starting action Browse.	[MsgId: MMSG-15919]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10552.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10553.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Start auto log messages stack - Iteration 10585.	[MsgId: MMSG-10545]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/bodgeit/js/util.js" failed  	[MsgId: MWAR-27762]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/favicon.ico" failed  	[MsgId: MWAR-27762]
+Browse.c(4): web_url("bodgeit") highest severity level was "warning", 3218 body bytes, 331 header bytes  	[MsgId: MMSG-26388]
+Browse.c(15): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Browse.c(15): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Browse.c(17): web_url("seed") started  	[MsgId: MMSG-26355]
+Browse.c(17): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10586.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10554.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10555.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10587.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10588.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10589.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10556.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10590.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10557.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10558.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10559.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 10591.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10560.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10561.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 10592.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10593.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10594.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10562.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10595.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10563.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10564.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10596.	[MsgId: MMSG-10545]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10565.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10647.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10597.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10598.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+
+
+Start auto log messages stack - Iteration 10648.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Start auto log messages stack - Iteration 10599.	[MsgId: MMSG-10545]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10599.	[MsgId: MMSG-10545]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10649.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10650.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10600.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10601.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10651.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10602.	[MsgId: MMSG-10545]
+End auto log messages stack.	[MsgId: MMSG-10544]
+Starting action Browse.	[MsgId: MMSG-15919]
+
+
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10652.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 10603.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10653.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10654.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 10600.	[MsgId: MMSG-10545]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10655.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10604.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10656.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 10605.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10606.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10657.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10607.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10360.	[MsgId: MMSG-10545]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/bodgeit/js/util.js" failed  	[MsgId: MWAR-27762]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/favicon.ico" failed  	[MsgId: MWAR-27762]
+Browse.c(4): web_url("bodgeit") highest severity level was "warning", 3213 body bytes, 331 header bytes  	[MsgId: MMSG-26388]
+Browse.c(15): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Browse.c(15): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Browse.c(17): web_url("seed") started  	[MsgId: MMSG-26355]
+Browse.c(17): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10608.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10361.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10362.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10609.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Start auto log messages stack - Iteration 10363.	[MsgId: MMSG-10545]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10364.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+End auto log messages stack.	[MsgId: MMSG-10544]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+
+
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10618.	[MsgId: MMSG-10545]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/bodgeit/js/util.js" failed  	[MsgId: MWAR-27762]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/favicon.ico" failed  	[MsgId: MWAR-27762]
+Browse.c(4): web_url("bodgeit") highest severity level was "warning", 3240 body bytes, 331 header bytes  	[MsgId: MMSG-26388]
+Browse.c(15): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Browse.c(15): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Browse.c(17): web_url("seed") started  	[MsgId: MMSG-26355]
+Browse.c(17): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10365.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10366.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10619.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10367.	[MsgId: MMSG-10545]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+Start auto log messages stack - Iteration 10620.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10368.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10621.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10369.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10614.	[MsgId: MMSG-10545]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/bodgeit/js/util.js" failed  	[MsgId: MWAR-27762]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/favicon.ico" failed  	[MsgId: MWAR-27762]
+Browse.c(4): web_url("bodgeit") highest severity level was "warning", 3213 body bytes, 331 header bytes  	[MsgId: MMSG-26388]
+Browse.c(15): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Browse.c(15): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Browse.c(17): web_url("seed") started  	[MsgId: MMSG-26355]
+Browse.c(17): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 10694.	[MsgId: MMSG-10545]
+Start auto log messages stack - Iteration 10590.	[MsgId: MMSG-10545]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/bodgeit/js/util.js" failed  	[MsgId: MWAR-27762]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/bodgeit/js/util.js" failed  	[MsgId: MWAR-27762]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/favicon.ico" failed  	[MsgId: MWAR-27762]
+Browse.c(4): web_url("bodgeit") highest severity level was "warning", 3235 body bytes, 331 header bytes  	[MsgId: MMSG-26388]
+Browse.c(15): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Browse.c(15): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Browse.c(17): web_url("seed") started  	[MsgId: MMSG-26355]
+Browse.c(17): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Warning -27762: Request "http://35.196.208.144:8181/favicon.ico" failed  	[MsgId: MWAR-27762]
+Browse.c(4): web_url("bodgeit") highest severity level was "warning", 3215 body bytes, 331 header bytes  	[MsgId: MMSG-26388]
+Browse.c(15): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Browse.c(15): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Start auto log messages stack - Iteration 10658.	[MsgId: MMSG-10545]
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Starting action Browse.	[MsgId: MMSG-15919]
+Browse.c(4): web_url("bodgeit") started  	[MsgId: MMSG-26355]
+Browse.c(4): Failed to connect to proxy 10.64.150.9:8080 - connect() failed (iErrorCode: [10013] Permission denied). Retrying with next proxy  	[MsgId: MMSG-26000]
+Browse.c(4): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://35.196.208.144:8181/bodgeit/".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Browse.c(17): web_url("seed") started  	[MsgId: MMSG-26355]
+Browse.c(17): Error -27722: Resolve/connect failed for the following proxies specified in the automatic configuration script: "PROXY 10.64.150.9:8080". Requested URL is "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68".  	[MsgId: MERR-27722]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

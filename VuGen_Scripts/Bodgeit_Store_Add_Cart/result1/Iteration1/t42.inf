@@ -1,0 +1,21 @@
+[t42]
+FileName2=t25_4_css.css
+FileName5=t1_1_style.css
+FileName4=t6_2_130.png
+FileName6=t1_0_util.UNK
+RequestBodyFile=t42_RequestBody.txt
+ContentType=text/html
+URL1=http://35.196.208.144:8181/bodgeit/product.jsp?typeid=2
+URL2=http://10.28.14.56/vshoc/css/css.ashx?t=login&l=1033
+URL3=http://35.196.208.144:8181/bodgeit/images/129.png
+ResponseHeaderFile=t42_ResponseHeader.txt
+URL4=http://35.196.208.144:8181/bodgeit/images/130.png
+URL5=http://35.196.208.144:8181/bodgeit/style.css
+URL6=http://35.196.208.144:8181/bodgeit/js/util.js
+SnapshotXmlFile=snapshot_43.xml
+RequestHeaderFile=t42_RequestHeader.txt
+SaveSnapshotResources=1
+Total=6
+StepName=Link: Thingies
+FileName1=t42.html
+FileName3=t6_3_129.png

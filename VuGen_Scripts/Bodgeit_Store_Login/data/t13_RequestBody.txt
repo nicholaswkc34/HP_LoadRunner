@@ -1,0 +1,2 @@
+"{\"Source\":\"UserRoleAccess\",\"MethodName\":\"GetAccessList\",\"Parameter\":\"{\\\"UserID\\\""
+": \\\"fa7cbc6741a0b0aec50f22c1231048d5d47ef94bb6d31\\\", \\\"rootPath\\\": \\\"/ePQS\\\"}\"}"

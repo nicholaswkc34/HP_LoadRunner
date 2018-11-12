@@ -1,0 +1,70 @@
+﻿[Workspace]
+SessionStartTime=0
+SessionEndTime=120
+VerNo=13
+IsSummaryData=0
+TimeFormat=0
+SesLang=ENU
+ABuild=0
+DataBaseName=resu599603101DB
+DBType=1
+CurrServer=KUL11N0099313
+CurrUser=sa
+CurrPswd===
+StorageLoc=\\KUL11N0099313\Data\
+PhStorageLoc=C:\MSSQL7\Data
+LocStorageLoc=
+LocPhStorageLoc=
+WinIntSec=0
+UseNetworkMode=0
+UseParallel=1
+UseManagedIndexes=1
+UseSpecMSSQLParams=1
+NumResults=1
+
+[Data Config]
+CollectionMode=2
+IngnoreFlds=Vuser ID
+IngnoreUIFlds=VuserID
+AggSecGran=1
+TransAgg=1
+DataPointAgg=1
+WebAgg=1
+MonAgg=0
+ErrAgg=0
+FilterEdge=0
+FSartTime=0
+FEndTime=0
+
+[Result0]
+LRRID=
+ResultPath=C:\Users\kwong\OneDrive - World Health Organization\Documents\HP_Loadrunner\Analysis_result\result0\result0.lrr
+ResultTDPath=
+NumFilters=0
+ScenarioTimeZone=-28800
+DaylightSavingSecsAddition=0
+ScenarioStartTime=1534503664
+ScenarioEndTime=1534503784
+ResInSD=0
+WebGran=5
+FilterEdge=0
+FSartTime=0
+FEndTime=0
+TDTestID=-1
+TDRunID=-1
+IsProTuneResult=0
+Scenario Type=Manual
+Schedule Name=Group schedule for: bodgeit_store_add_cart
+Mode=Group Scheduling
+Load Behavior=Defined per scenario group
+Scenario Duration=Unknown duration
+NumGraphs=5
+
+[DimensionFunctions]
+DimeFuncCount=1
+DimeFuncType0=FuncFragment
+FunctionName_UI0=Think Time
+DimensionName_UI0=Transaction Response Time,Aminimum,Amaximum
+FunctionFragmentValues_UI0=-Include Think Time
+DimensionFragmentValues_UI0=!([Value]-[Think Time])!
+

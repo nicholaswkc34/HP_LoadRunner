@@ -1,0 +1,15 @@
+[t1]
+URL3=http://35.196.208.144:8181/bodgeit/js/util.js
+SnapshotXmlFile=snapshot_2.xml
+ContentType=text/html
+StepName=Url: bodgeit
+Total=3
+FileName1=t1.html
+FileName3=t1_0_util.UNK
+FileName2=t1_1_style.css
+RequestHeaderFile=t1_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t1_ResponseHeader.txt
+RequestBodyFile=t1_RequestBody.txt
+URL1=http://35.196.208.144:8181/bodgeit/
+URL2=http://35.196.208.144:8181/bodgeit/style.css

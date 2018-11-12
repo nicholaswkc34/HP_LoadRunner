@@ -1,0 +1,2 @@
+"{\"Source\":\"Invoice\",\"MethodName\":\"GetInvoiceRequestListUserAccess\",\"Parameter\":\"{\\"
+"\"UserID\\\":\\\"fadc002ba4af04ec9f52cb2096096ac8f96fd450a0731\\\"}\"}"
